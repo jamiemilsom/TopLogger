@@ -321,7 +321,7 @@
                         "wall": {
                             "nameLoc": "The Duck"
                         },
-                        "ticksCount": 83,
+                        "ticksCount": 84,
                         "inAt": "2025-01-20T17:28:08.339Z",
                         "outPlannedAt": "2025-02-03T17:28:27.257Z"
                     },
@@ -867,7 +867,7 @@
                         "wall": {
                             "nameLoc": "Steep Corner"
                         },
-                        "ticksCount": 63,
+                        "ticksCount": 64,
                         "inAt": "2025-01-17T11:39:18.655Z",
                         "outPlannedAt": "2025-03-24T11:39:49.905Z"
                     },
@@ -1679,7 +1679,7 @@
                         "wall": {
                             "nameLoc": "Old Slab"
                         },
-                        "ticksCount": 368,
+                        "ticksCount": 369,
                         "inAt": "2024-12-13T11:32:56.012Z",
                         "outPlannedAt": "2025-02-10T11:33:18.110Z"
                     },
@@ -2673,7 +2673,7 @@
                         "wall": {
                             "nameLoc": "Mini-Cave"
                         },
-                        "ticksCount": 143,
+                        "ticksCount": 144,
                         "inAt": "2025-01-08T13:48:48.350Z",
                         "outPlannedAt": "2025-02-03T13:49:12.755Z"
                     },

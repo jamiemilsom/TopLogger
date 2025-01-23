@@ -51,7 +51,7 @@ if response.status_code == 200:
     data = response.json()
     print(json.dumps(data, indent=4))
 
-    with open("boulders.json", "w") as file:
+    with open("data/boulders.json", "w") as file:
         json.dump(data, file, indent=4)
 else:
     print(f"Request failed with status code: {response.status_code}")
