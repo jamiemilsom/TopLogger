@@ -1,0 +1,3132 @@
+[
+    {
+        "data": {
+            "climbs": {
+                "data": [
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 84,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 9,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 67,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 5,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 34,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 16,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 69,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 36,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 0,
+                        "ratingsAverage": null,
+                        "holdColor": {
+                            "nameLoc": "Candy Cane"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 1,
+                        "inAt": "2025-01-16T09:49:00.979Z",
+                        "outPlannedAt": "2025-02-03T09:49:47.377Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 9,
+                        "ratingsAverage": 91,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 72,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 73,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 56,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 50,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 55,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 82,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 17,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 75,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 68,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 22,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 98,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 95,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 16,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 109,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 77,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 9,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 63,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 13,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 17,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 95,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 83,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 3,
+                        "ratingsAverage": null,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 6,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 9,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 39,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 0,
+                        "gradeVotesCount": 15,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Blue"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 88,
+                        "inAt": "2025-01-20T17:28:08.339Z",
+                        "outPlannedAt": "2025-02-03T17:28:27.257Z"
+                    },
+                    {
+                        "grade": 201,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Green"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 135,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 201,
+                        "gradeVotesCount": 12,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Green"
+                        },
+                        "wall": {
+                            "nameLoc": "Upstairs Traverse"
+                        },
+                        "ticksCount": 244,
+                        "inAt": "2024-03-20T17:30:04.000Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 217,
+                        "gradeVotesCount": 5,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Green"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 81,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 217,
+                        "gradeVotesCount": 2,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Green"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 43,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 233,
+                        "gradeVotesCount": 3,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Green"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 101,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 233,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Green"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 128,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 233,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Green"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 81,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 233,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Green"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 103,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 250,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Wasp"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 103,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 267,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Wasp"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 99,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 267,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Wasp"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 134,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 267,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Wasp"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 137,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 267,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Wasp"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 130,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 267,
+                        "gradeVotesCount": 1,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Wasp"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 68,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 283,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Seagull"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 104,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 283,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Wasp"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 111,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 300,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Seagull"
+                        },
+                        "wall": {
+                            "nameLoc": "Upstairs Traverse"
+                        },
+                        "ticksCount": 237,
+                        "inAt": "2024-03-20T17:30:14.000Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 300,
+                        "gradeVotesCount": 5,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Seagull"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 116,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 333,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Seagull"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 130,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 333,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 128,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 333,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Seagull"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 126,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 333,
+                        "gradeVotesCount": 2,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Seagull"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 60,
+                        "inAt": "2025-01-13T13:34:23.483Z",
+                        "outPlannedAt": "2025-03-10T13:35:03.087Z"
+                    },
+                    {
+                        "grade": 333,
+                        "gradeVotesCount": 12,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 206,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 367,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 196,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 367,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 158,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 367,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 81,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 85,
+                        "inAt": "2025-01-10T16:04:27.012Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 367,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Seagull"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 177,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 367,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 90,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 146,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 367,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 81,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 367,
+                        "gradeVotesCount": 3,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Seagull"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 65,
+                        "inAt": "2025-01-10T16:04:27.012Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 367,
+                        "gradeVotesCount": 2,
+                        "ratingsAverage": null,
+                        "holdColor": {
+                            "nameLoc": "Seagull"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 33,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 400,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 92,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 167,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 400,
+                        "gradeVotesCount": 3,
+                        "ratingsAverage": null,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 43,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 400,
+                        "gradeVotesCount": 9,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Pink Tiger"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 159,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 433,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 211,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 433,
+                        "gradeVotesCount": 3,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 63,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 433,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 96,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 175,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 433,
+                        "gradeVotesCount": 16,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 278,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 433,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 151,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 433,
+                        "gradeVotesCount": 5,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 102,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 433,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 200,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 147,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 248,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 12,
+                        "ratingsAverage": 96,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 275,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 182,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 17,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 198,
+                        "inAt": "2025-01-10T16:04:27.012Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 103,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 5,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 127,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 52,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 288,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 92,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 209,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 20,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 244,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 467,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 276,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 185,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-01-31T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 75,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 127,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 166,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 197,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 12,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 131,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 5,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 175,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 17,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 331,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 27,
+                        "ratingsAverage": 96,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 353,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 125,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 240,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Mint"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 161,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 91,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 189,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 246,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 500,
+                        "gradeVotesCount": 5,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 65,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 96,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 17,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 174,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Grey"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 167,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 190,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Upstairs Traverse"
+                        },
+                        "ticksCount": 168,
+                        "inAt": "2024-03-20T00:00:00.000Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 27,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 210,
+                        "inAt": "2025-01-10T16:04:27.012Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 15,
+                        "ratingsAverage": 96,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 215,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 20,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 289,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 16,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 283,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 3,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 49,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 533,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Upstairs Traverse"
+                        },
+                        "ticksCount": 166,
+                        "inAt": "2024-03-20T00:00:00.000Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 78,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 22,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 220,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 2,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 47,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 164,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 15,
+                        "ratingsAverage": 90,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 268,
+                        "inAt": "2025-01-08T13:45:14.450Z",
+                        "outPlannedAt": "2025-02-03T13:45:39.538Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 90,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 151,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 99,
+                        "inAt": "2024-12-16T11:00:06.650Z",
+                        "outPlannedAt": "2025-02-12T11:01:09.605Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 265,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 21,
+                        "ratingsAverage": 97,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 314,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 198,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 128,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 18,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 190,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 19,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Red"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 208,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 15,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 205,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 567,
+                        "gradeVotesCount": 23,
+                        "ratingsAverage": 97,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 368,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 20,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 190,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 27,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 212,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 16,
+                        "ratingsAverage": 94,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 190,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 173,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 112,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 19,
+                        "ratingsAverage": 90,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 191,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 96,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 200,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 92,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 238,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 21,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 381,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 12,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 194,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 24,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Polka"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 250,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 21,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 177,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 27,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 278,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 16,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 276,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 135,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 600,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 71,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 20,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 328,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 26,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 226,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 52,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 24,
+                        "ratingsAverage": 92,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 318,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 24,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 373,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 21,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 239,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 16,
+                        "ratingsAverage": 90,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 186,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 25,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 236,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 17,
+                        "ratingsAverage": 94,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 228,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 57,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 487,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 16,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 245,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 30,
+                        "ratingsAverage": 96,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 213,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 28,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 334,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 12,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Orange"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 179,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 25,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Purple"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 291,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 21,
+                        "ratingsAverage": 89,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 179,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 617,
+                        "gradeVotesCount": 25,
+                        "ratingsAverage": 94,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 308,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 78,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 526,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 113,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 28,
+                        "ratingsAverage": 85,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 305,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 160,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 29,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 279,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 23,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 237,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 9,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 111,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Polka"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 50,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 17,
+                        "ratingsAverage": 91,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 146,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 25,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Candy Cane"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 230,
+                        "inAt": "2024-12-18T15:31:41.264Z",
+                        "outPlannedAt": "2025-02-24T15:32:10.764Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 39,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 223,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 22,
+                        "ratingsAverage": 92,
+                        "holdColor": {
+                            "nameLoc": "Hot Pink"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 127,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 633,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 70,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 20,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 70,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 22,
+                        "ratingsAverage": 96,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 173,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 16,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Candy Cane"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 103,
+                        "inAt": "2024-12-18T15:31:41.264Z",
+                        "outPlannedAt": "2025-02-24T15:32:10.764Z"
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 15,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Granite"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 148,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 12,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 65,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 65,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 23,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 235,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 91,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 148,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 131,
+                        "inAt": "2025-01-10T16:04:27.012Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 650,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 82,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 90,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 17,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 95,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 34,
+                        "ratingsAverage": 87,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 245,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 22,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 151,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 24,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 170,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 16,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 85,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 20,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 136,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Candy Cane"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 51,
+                        "inAt": "2024-12-09T16:09:16.816Z",
+                        "outPlannedAt": "2025-01-31T16:09:37.774Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 22,
+                        "ratingsAverage": 95,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 123,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 29,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 215,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 88,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 667,
+                        "gradeVotesCount": 22,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 175,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 683,
+                        "gradeVotesCount": 12,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Yellow"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 71,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 683,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 71,
+                        "inAt": "2025-01-10T16:04:27.012Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 683,
+                        "gradeVotesCount": 30,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 143,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 683,
+                        "gradeVotesCount": 23,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 134,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 683,
+                        "gradeVotesCount": 7,
+                        "ratingsAverage": 75,
+                        "holdColor": {
+                            "nameLoc": "Candy Cane"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 38,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 683,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Lime"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 43,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 683,
+                        "gradeVotesCount": 18,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 151,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 700,
+                        "gradeVotesCount": 5,
+                        "ratingsAverage": 75,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 27,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 700,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 50,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 700,
+                        "gradeVotesCount": 57,
+                        "ratingsAverage": 88,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 209,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 700,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 52,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 700,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 81,
+                        "inAt": "2025-01-12T19:08:06.185Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 700,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 85,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 39,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 700,
+                        "gradeVotesCount": 25,
+                        "ratingsAverage": 96,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 145,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 700,
+                        "gradeVotesCount": 24,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 59,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 700,
+                        "gradeVotesCount": 4,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 23,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 17,
+                        "ratingsAverage": 96,
+                        "holdColor": {
+                            "nameLoc": "Candy Cane"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 71,
+                        "inAt": "2024-12-10T14:31:27.942Z",
+                        "outPlannedAt": "2025-01-31T14:33:16.309Z"
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 8,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 43,
+                        "inAt": "2024-12-09T12:04:07.908Z",
+                        "outPlannedAt": "2025-01-31T12:04:30.877Z"
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 14,
+                        "ratingsAverage": 93,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Mini-Cave"
+                        },
+                        "ticksCount": 70,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 15,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Candy Cane"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 52,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 52,
+                        "inAt": "2025-01-10T15:55:02.272Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 11,
+                        "ratingsAverage": 90,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "The Cave"
+                        },
+                        "ticksCount": 42,
+                        "inAt": "2024-12-18T12:18:04.205Z",
+                        "outPlannedAt": "2025-02-24T12:18:29.871Z"
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": null,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Prow"
+                        },
+                        "ticksCount": 16,
+                        "inAt": "2025-01-10T16:04:27.012Z",
+                        "outPlannedAt": null
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 1,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 17,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 9,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Black"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 14,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 717,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Candy Cane"
+                        },
+                        "wall": {
+                            "nameLoc": "Bullseye Slab"
+                        },
+                        "ticksCount": 73,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 733,
+                        "gradeVotesCount": 13,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Old Slab"
+                        },
+                        "ticksCount": 36,
+                        "inAt": "2024-12-13T11:32:56.012Z",
+                        "outPlannedAt": "2025-02-10T11:33:18.110Z"
+                    },
+                    {
+                        "grade": 733,
+                        "gradeVotesCount": 3,
+                        "ratingsAverage": null,
+                        "holdColor": {
+                            "nameLoc": "Candy Cane"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 7,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    },
+                    {
+                        "grade": 733,
+                        "gradeVotesCount": 19,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "The Duck"
+                        },
+                        "ticksCount": 56,
+                        "inAt": "2024-12-16T12:48:27.455Z",
+                        "outPlannedAt": "2025-02-12T12:48:48.651Z"
+                    },
+                    {
+                        "grade": 750,
+                        "gradeVotesCount": 6,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "Wood"
+                        },
+                        "wall": {
+                            "nameLoc": "Chalice"
+                        },
+                        "ticksCount": 8,
+                        "inAt": "2024-12-10T14:31:27.942Z",
+                        "outPlannedAt": "2025-01-31T14:33:16.309Z"
+                    },
+                    {
+                        "grade": 750,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 18,
+                        "inAt": "2025-01-13T12:49:20.658Z",
+                        "outPlannedAt": "2025-03-17T12:49:36.180Z"
+                    },
+                    {
+                        "grade": 750,
+                        "gradeVotesCount": 10,
+                        "ratingsAverage": 100,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 20,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 767,
+                        "gradeVotesCount": 5,
+                        "ratingsAverage": null,
+                        "holdColor": {
+                            "nameLoc": "Granite"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 9,
+                        "inAt": "2025-01-16T09:49:00.979Z",
+                        "outPlannedAt": "2025-02-03T09:49:47.377Z"
+                    },
+                    {
+                        "grade": 767,
+                        "gradeVotesCount": 3,
+                        "ratingsAverage": null,
+                        "holdColor": {
+                            "nameLoc": "Wood"
+                        },
+                        "wall": {
+                            "nameLoc": "Comp Wall"
+                        },
+                        "ticksCount": 2,
+                        "inAt": "2025-01-08T13:48:48.350Z",
+                        "outPlannedAt": "2025-02-03T13:49:12.755Z"
+                    },
+                    {
+                        "grade": 783,
+                        "gradeVotesCount": 2,
+                        "ratingsAverage": null,
+                        "holdColor": {
+                            "nameLoc": "White"
+                        },
+                        "wall": {
+                            "nameLoc": "Steep Corner"
+                        },
+                        "ticksCount": 1,
+                        "inAt": "2025-01-17T11:39:18.655Z",
+                        "outPlannedAt": "2025-03-24T11:39:49.905Z"
+                    }
+                ]
+            }
+        }
+    }
+]
